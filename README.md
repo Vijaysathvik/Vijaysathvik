@@ -1,6 +1,6 @@
-# Jangapally Vijay Sathvik — Software Engineer & Aerospace Student @ IIT Kharagpur
+# Jangapally Vijay Sathvik —  Aerospace Undergrad @ IIT Kharagpur
 
-**B.Tech.(Hons.) in Aerospace Engineering — IIT Kharagpur**  
+**B.tech + M.tech (Dual Degree, 5 yrs) in Aerospace Engineering — IIT Kharagpur**  
 I build full-stack systems and reusable engineering tools. I enjoy projects where systems, data and performance meet: fast APIs, real-time apps, and algorithmic systems that scale.
 
 - 🔭 Current: polishing backend systems, contributing to open-source web projects and preparing GSoC-quality proposals.
