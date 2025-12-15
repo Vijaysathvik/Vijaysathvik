@@ -6,7 +6,7 @@ I build full-stack systems and reusable engineering tools. I enjoy projects wher
 - 🔭 Current: polishing backend systems, contributing to open-source web projects and preparing GSoC-quality proposals.
 - 🧩 Strengths: Fullstack (React / Node / Next), FastAPI, PostgreSQL/Prisma, MongoDB, algorithmic C++.
 - 💡 Past internships & projects: Waitplay (Full-Stack POS system), Tomato (Fullstack food-ordering app), Flight-Path Optimization (Dijkstra based). (Details in pinned repos.)
-- 📫 Reach me: `vijaysathvik` on GitHub • email: (add your email here) • LinkedIn: (add link)
+- 📫 Reach me: `vijaysathvik` on GitHub • email: (vijaysathvik1903@gmail.com) • LinkedIn: ()
 
 ---
 
