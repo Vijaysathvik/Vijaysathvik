@@ -1,43 +1,41 @@
-# Jangapally Vijay Sathvik —  Aerospace Undergrad @ IIT Kharagpur
-
-**B.tech + M.tech (Dual Degree, 5 yrs) in Aerospace Engineering — IIT Kharagpur**  
-I build full-stack systems and reusable engineering tools. I enjoy projects where systems, data and performance meet: fast APIs, real-time apps, and algorithmic systems that scale.
-
-- 🔭 Current: polishing backend systems, contributing to open-source web projects and preparing GSoC-quality proposals.
-- 🧩 Strengths: Fullstack (React / Node / Next), FastAPI, PostgreSQL/Prisma, MongoDB, algorithmic C++.
-- 💡 Past internships & projects: Waitplay (Full-Stack POS system), Tomato (Fullstack food-ordering app), Flight-Path Optimization (Dijkstra based). (Details in pinned repos.)
-- 📫 Reach me: `vijaysathvik` on GitHub • email: (vijaysathvik1903@gmail.com) • LinkedIn: (https://www.linkedin.com/in/vijay-sathvik-933aa2281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+# Hi, I'm Vijay Sathvik 👋
+**Aerospace Engineering @ IIT Kharagpur | Full-Stack Developer | Open Source Enthusiast**
 
 ---
 
-## Featured work (Pinned)
-> See pinned repositories on my profile for quick access to the code and live demos:
-- **Waitplay** — real-time restaurant POS with NextJS, Node, Prisma, PostgreSQL and Socket.io.
-- **Tomato** — full-stack food ordering platform: React + Node + Stripe + MongoDB.
-- **flight-path-optimization** — graph-based route optimization (C++ / Python implementation).
-- **contributions** — a collection of my open-source contributions & PR log.
+### 🚀 GSoC '26 Aspirant | FOSSASIA Contributor
+I am currently focusing on contributing to the **FOSSASIA** ecosystem, specifically **Eventyay**. My goal is to enhance the platform's scalability and user experience through clean, well-documented code.
+
+* **Eventyay Contributions:** [View my Pull Requests](https://github.com/fossasia/eventyay-talk-webapp/pulls?q=is%3Apr+author%3AVijaysathvik) 
+    * *Focus: Backend optimization and frontend UI enhancements.*
+* **Other Projects:** Previous experience with **Oppia** and **Zulip** development environments.
 
 ---
 
-## Technical highlights
-- **Languages:** C, C++, JavaScript, TypeScript, Python (working knowledge)  
-- **Frameworks / Tools:** React, Next.js, Node.js, Express, FastAPI, Prisma, Socket.io, PostgreSQL, MongoDB, Docker, Git, GitHub Actions  
-- **Other:** Algorithms & competitive programming (Codeforces Specialist), data modelling, real-time systems, REST & WebSocket patterns
+### 🏛️ Campus & Community Involvement
+Active member of the open-source culture at **IIT Kharagpur**.
+
+* **KOSS (Kharagpur Open Source Society):** Engaging with the community to promote FOSS culture on campus and participating in technical workshops.
+* **KWoC (Kharagpur Winter of Code):** * **Participant:** Contributing to various projects and mentoring juniors on Git/GitHub best practices.
+    * [Check out my KWoC projects here](https://kwoc.kossiitkgp.org/stats/Vijaysathvik)
 
 ---
 
-## Recent achievements
-- Internship: **WAITPLAY** — built a full stack POS; implemented QR ordering & real-time updates (Socket.io).  
-- Projects: **Tomato** (payment + role-based dashboard), **Flight-Path Optimization** (Dijkstra on real dataset).  
-- Competitive: Codeforces rated Specialist; strong problem-solving background.
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, JavaScript, TypeScript, C++
+* **Web Dev:** React, Ember.js (Eventyay), Node.js, HTML/CSS
+* **DevOps/Tools:** Docker, Git/GitHub, Ansys Workbench (Modal Analysis)
+* **Aerospace:** Detonation Theory, Structural Analysis
 
 ---
 
-## Resume & CV
-My CV is available in this repository. (See full details in the CV file.) :contentReference[oaicite:1]{index=1}
+### 📊 GitHub Stats
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijaysathvik&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaysathvik&layout=compact&theme=tokyonight)
 
 ---
 
-## Want to collaborate?
-Open issues or reach out on GitHub — I prioritize reproducible demos and clear contributor guidance. If you're maintaining a web project or backend with performance needs, let's talk.
-
+### 📫 Let's Connect!
+* **GitHub:** [@Vijaysathvik](https://github.com/Vijaysathvik)
+* **LinkedIn:** [Your LinkedIn Link Here]
+* **Location:** IIT Kharagpur, West Bengal, India
