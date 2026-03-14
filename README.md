@@ -9,8 +9,8 @@
 | | Community | Role |
 |---|---|---|
 | 🔓 | **[KOSS](https://www.linkedin.com/company/kharagpur-open-source-society/)** · Kharagpur Open Source Society | Member — completed fresher selection tasks spanning backend, frontend, ML, and OSS contribution |
-| ❄️ | **[KWoC](https://kwoc.kossiitkgp.org/stats/Vijaysathvik)** · Kharagpur Winter of Code | Participant — contributed to open source projects during the winter programme |
-| 💻 | **[KodeInKGP](https://www.linkedin.com/company/kodeinkgp/)** | Member |
+| ❄️ | **[KWoC](https://kwoc.kossiitkgp.org/stats/Vijaysathvik)** · Kharagpur Winter of Code | Participant — contributed to open source projects during the winter programme(december 2024, december 2025) |
+| 💻 | **[KodeInKGP](https://www.linkedin.com/company/kodeinkgp/)** | Member (2023) |
 
 ---
 
