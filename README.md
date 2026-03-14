@@ -32,9 +32,7 @@
 
 ## 🔓 Open Source
 
-Active contributor to **[FOSSASIA / Eventyay](https://github.com/fossasia/eventyay)** (Python · Django · REST APIs).
-
-Notable: [#2356 ✅ merged](https://github.com/fossasia/eventyay/pull/2356) — scoped ticket secret uniqueness to event level, enabling reuse across different events under the same organiser.
+Active contributor to **[FOSSASIA / Eventyay](https://github.com/fossasia/eventyay)** — an open-source event management platform built with Python and Django. [View contributions →](https://github.com/fossasia/eventyay/pulls?q=is%3Apr+author%3AVijaysathvik)
 
 ---
 
