@@ -9,8 +9,8 @@
 | | Community | Role |
 |---|---|---|
 | 🔓 | **[KOSS](https://www.linkedin.com/company/kharagpur-open-source-society/)** · Kharagpur Open Source Society | Member — completed fresher selection tasks spanning backend, frontend, ML, and OSS contribution |
-| ❄️ | **[KWoC](https://kwoc.kossiitkgp.org/stats/Vijaysathvik)** · Kharagpur Winter of Code | Participant — contributed to open source projects during the winter programme(december 2024, december 2025) |
-| 💻 | **[KodeInKGP](https://www.linkedin.com/company/kodeinkgp/)** | Member (2023) |
+| ❄️ | **[KWoC](https://kwoc.kossiitkgp.org/stats/Vijaysathvik)** · Kharagpur Winter of Code | Participant — contributed to open source projects during the winter programme |
+| 💻 | **[KodeInKGP](https://www.linkedin.com/company/kodeinkgp/)** | Member |
 
 ---
 
@@ -30,6 +30,14 @@
 
 ---
 
+## 🏆 Highlights
+
+- 🥇 **Gold medal** at OpenSoft MongoDB Hackathon, General Championship Tech, IIT Kharagpur — built a full-stack search platform with autocomplete, fuzzy & semantic search via MongoDB Atlas Search, Vidstack video playback, Google OAuth, and Alan AI voice commands
+- 🎯 **Codeforces Specialist** ([A_j_y123](https://codeforces.com/profile/A_j_y123))
+- 📐 Top **2%** in IIT-JEE Advanced (160,000+ candidates) · Top **1%** in JEE Mains (1.2M+ candidates). Most difficult exams in India.
+
+---
+
 ## 🔓 Open Source
 
 Active contributor to **[FOSSASIA / Eventyay](https://github.com/fossasia/eventyay)** — an open-source event management platform built with Python and Django. [View contributions →](https://github.com/fossasia/eventyay/pulls?q=is%3Apr+author%3AVijaysathvik)
@@ -38,7 +46,7 @@ Active contributor to **[FOSSASIA / Eventyay](https://github.com/fossasia/eventy
 
 ## 🛠️ Stack
 
-`Python` `Django` `FastAPI` `JavaScript` `TypeScript` `React` `Node.js` `Docker` `REST APIs` `C++`
+`Python` `Django` `FastAPI` `C++` `JavaScript` `TypeScript` `React` `Node.js` `MongoDB` `Docker` `REST APIs`
 
 ---
 
@@ -46,3 +54,4 @@ Active contributor to **[FOSSASIA / Eventyay](https://github.com/fossasia/eventy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-sathvik-933aa2281)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vijaysathvik)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/A_j_y123)
