@@ -44,10 +44,16 @@
 Active contributor to **[FOSSASIA / Eventyay](https://github.com/fossasia/eventyay)** — an open-source event management platform built with Python and Django. [View contributions →](https://github.com/fossasia/eventyay/pulls?q=is%3Apr+author%3AVijaysathvik)
 
 ---
-
 ## 🛠️ Stack
 
-`Python` `Django` `FastAPI` `C++` `JavaScript` `TypeScript` `React` `Node.js` `MongoDB` `Docker` `REST APIs`
+`Python` `Django` `FastAPI` `Flask`  
+`C++`  
+`JavaScript` `TypeScript`  
+`React`  
+`Node.js`  
+`MongoDB` `PostgreSQL`  
+`Docker` `Redis` `Celery`  
+`REST APIs` `OAuth`
 
 ---
 
