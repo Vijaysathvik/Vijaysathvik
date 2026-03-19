@@ -1,7 +1,7 @@
 # Hi, I'm Vijay Sathvik 👋
 
-**Dual Degree (B.Tech + M.Tech) · Aerospace Engineering · IIT Kharagpur**
-Anime is love ❤️.
+**Dual Degree (B.Tech + M.Tech) · Aerospace Engineering · IIT Kharagpur .**
+**Anime is love ❤️.**
 
 ---
 
